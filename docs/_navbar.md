@@ -5,9 +5,9 @@
 * 手写题目
   * [手写 Promise](/write/promise.md)
   * [手写设计模式](/write/model.md)
-* 每日一题
-  * [20231117](/daily/20231117.md)
-  * [20231118](/daily/20231118.md)
+* 源码阅读
+  * [学前-调试代码](/source-reading/01-how-to-debug.md)
+  * [发布npm库](/source-reading/02-publish-npm-package.md)
 * 算法入门
   * [算法复杂度](/algorithm/sffzd.md)
   * [二叉树](/algorithm/binarytree.md)
